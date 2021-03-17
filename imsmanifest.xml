@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5nR3o0g8E8M_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Phases of Reading Development and Writing Skills</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Phases_of_Reading_Development_and_Writing_Skills_ORG">
+    <organization identifier="Phases_of_Reading_Development_and_Writing_Skills_ORG">
+      <title>Phases of Reading Development and Writing Skills</title>
+      <item identifier="Video_Intro_SCO" isvisible="true" identifierref="__5nR3o0g8E8M_course_id_RES">
+        <title>Phases of Reading Development and Writing Skills</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5nR3o0g8E8M_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6qiuUjTscUb_P_416_-3_1333_1334_DX1216_DY1216_CX831_CY831.png" />
+      <file href="story_content/6aMwGxP2W2Z_44100_48_0.mp3" />
+      <file href="mobile/6DD7T7i2hcA_DX796_DY796_CX835_CY553.jpg" />
+      <file href="story_content/6otiwG64zuq_44100_48_0.mp3" />
+      <file href="story_content/5cwiCa7CpLG_captions.js" />
+      <file href="mobile/6merxDdnrKW_P_124_0_1212_2048_DX790_DY790_CX491_CY829.png" />
+      <file href="story_content/613bkTCetAu_44100_48_0.mp3" />
+      <file href="story_content/6ES9UBuwd0q_44100_48_0.mp3" />
+      <file href="mobile/5YiElMkuj47_DX810_DY810_CX849_CY566.jpg" />
+      <file href="story_content/6rHQb2PDzYf_44100_48_0.mp3" />
+      <file href="mobile/6OJhm23naUk_DX466_DY466_CX487_CY440.jpg" />
+      <file href="story_content/5kGqFZAXSLy_44100_48_0.mp3" />
+      <file href="mobile/6EClJeekv5M_DX408_DY408_CX371_CY427.png" />
+      <file href="story_content/6rfjJUvbV9G_44100_48_0.mp3" />
+      <file href="mobile/6efZvA3oWz7_DX512_DY512_CX536_CY375.png" />
+      <file href="story_content/64ARXsQLzhj_44100_48_0.mp3" />
+      <file href="mobile/619P6SZKH11_DX482_DY482_CX505_CY413.png" />
+      <file href="story_content/69QlhrXTDUo_44100_48_0.mp3" />
+      <file href="mobile/64rYitAMpqI_P_0_149_2048_1126_DX1440_DY1440_CX1511_CY831.png" />
+      <file href="story_content/5celEJiQCjU_44100_48_0.mp3" />
+      <file href="mobile/6EG4nhbF7t6_DX648_DY648_CX679_CY389.png" />
+      <file href="story_content/5rrIg7kJeqK_44100_48_0.mp3" />
+      <file href="mobile/6oArusKJnDX_P_0_0_630_445_DX648_DY648_CX630_CY445.png" />
+      <file href="mobile/5Un2Grct3vY_DX562_DY562_CX556_CY589.jpg" />
+      <file href="mobile/68RFOkRttnj_B20_C40_P_0_35_544_215_DX746_DY746_CX544_CY216.png" />
+      <file href="mobile/6ApGaCLZBXh_RG_P_0_283_1365_1764_DX916_DY916_CX641_CY829.png" />
+      <file href="story_content/6Xqbf0fYgE0_44100_48_0.mp3" />
+      <file href="mobile/6EG4nhbF7t6_P_-13_0_733_413_DX660_DY660_CX692_CY390.png" />
+      <file href="meta.xml" />
+      <file href="mobile/62Hg6twwvaj.png" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jpGuQZVvlz.js" />
+      <file href="html5/data/js/5vZdJx60TLh.js" />
+      <file href="html5/data/js/5xxg7HDi0m1.js" />
+      <file href="html5/data/js/632EHWW631X.js" />
+      <file href="html5/data/js/69HuXawnEmN.js" />
+      <file href="html5/data/js/6cCG1CW66kS.js" />
+      <file href="html5/data/js/6IoYTyL8dh3.js" />
+      <file href="html5/data/js/6jMQVYQgeD1.js" />
+      <file href="html5/data/js/6kzvu7m7uUd.js" />
+      <file href="html5/data/js/6M1aIQpRO96.js" />
+      <file href="html5/data/js/6Mi7cQsm1gy.js" />
+      <file href="html5/data/js/6RcB1QsqYhc.js" />
+      <file href="html5/data/js/6U7lOUKxWTu.js" />
+      <file href="html5/data/js/6Ue0CjEreMr.js" />
+      <file href="html5/data/js/6UQSL7rNs35.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
